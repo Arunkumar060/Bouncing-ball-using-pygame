@@ -54,6 +54,7 @@ for i in range(ball_count):
 	
 	ball = Ball(radius, x, y, dx, dy, color[color_no])
 	
+        #inserting balls into an arry
 	balls.append(ball)
 	
 def draw():
