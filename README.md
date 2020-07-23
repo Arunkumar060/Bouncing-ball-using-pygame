@@ -1,1 +1,1 @@
-# Bouncy-python
+# Bouncing ball using pygame
